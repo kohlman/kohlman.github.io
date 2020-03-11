@@ -1,7 +1,7 @@
 
 ## UniWiND-AG **Open Science in der Promotionsphase**
 
-| [Einführung Open Science](./intro.md) | [Trainingsmaterial](./training.md) | [Glossar](./glossar.md) | [Über uns](./about.md) |
+\| [Einführung Open Science](./intro.md) \| [Trainingsmaterial](./training.md) \| [Glossar](./glossar.md) \| [Über uns](./about.md) \|
 
 Open Science hat sich als wichtiges Thema im Wissenschaftssystem etabliert. Die Frage nach der ...
 
