@@ -6,10 +6,10 @@
 Es gibt eine Vielzahl von Informationsquellen für Open Science. Wir möchten hier die wichtigsten zusammenfassen und verlinken.
 
 ### FOSTER Training Material
-(https://www.fosteropenscience.eu/)
+<https://www.fosteropenscience.eu/>
 
 ### FDMentor
-(https://www.forschungsdaten.org/index.php/FDMentor)
+<https://www.forschungsdaten.org/index.php/FDMentor>
 
 ### Open Science MOOC
 https://opensciencemooc.eu/modules/
