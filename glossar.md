@@ -2,7 +2,7 @@
 
 ## Glossar Open Science
 
-\| Einführung Open Science \| [Trainingsmaterial](./training) \| [Glossar](./glossar) \| [Literatur](./literatur) \| [Über uns](./about) \|
+\| [Einführung Open Science](./) \| [Trainingsmaterial](./training) \| Glossar \| [Literatur](./literatur) \| [Über uns](./about) \|
 
 Open Science ist ein sehr weites Feld mit einer zum Teil neuen Terminologie. Das Glossar soll helfen, die z.&nbsp;T. unübersichtliche Begriffslandschaft zugänglich zu machen und die wichtigsten Begriff prägnant zu erläutern.
 
